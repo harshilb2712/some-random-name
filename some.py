@@ -9,7 +9,7 @@ def mul(x, y):
 
 def div(x, y):
     if y != 0: return x / y
-    else     : return 'Division not possible'
+    else     : return 'Division is impossible'
     
 def calculator():
     x = int(input('First: '))
