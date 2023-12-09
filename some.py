@@ -27,3 +27,5 @@ e = 2.7
 
 def floordiv(x, y):
 	return x // y
+	print (x,y)
+	
