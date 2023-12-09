@@ -24,3 +24,6 @@ def calculator():
 pi = 3
 l = [12, 4, 8]
 e = 2.7
+
+def floordiv(x, y):
+	return x // y
